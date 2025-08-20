@@ -1,2 +1,1 @@
-print("Hei Jarno!")
-print("Toinen lisäys!")
+print("Hello Jarno!")
