@@ -1,7 +1,7 @@
 #Lukune syöttö
-a= float(input("Anna ensimmäinen luku:"))
-b= float(input("Anna toinen luku:"))
-c= float(input("Anna kolmas luku:"))
+a= int(input("Anna ensimmäinen luku:"))
+b= int(input("Anna toinen luku:"))
+c= int(input("Anna kolmas luku:"))
 #Laskenta ja tulostus
 print("Lukujen summa", a+b+c)
 print("Lukujen tulo", a * b*c)

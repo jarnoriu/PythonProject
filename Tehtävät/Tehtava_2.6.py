@@ -6,7 +6,6 @@ for i in range (3):
 
 print(tulos1)
 
-import random
 tulos1 = ""
 for i in range (4):
  a=random.randint(1,6)
