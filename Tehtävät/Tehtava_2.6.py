@@ -1,4 +1,7 @@
 import random
+#random tuonti
+
+#laskenta 3 digit
 tulos1 = ""
 for i in range (3):
  a=random.randint(0,9)
@@ -6,6 +9,7 @@ for i in range (3):
 
 print(tulos1)
 
+#laskenta ja numero rajaus, 4 digit
 tulos1 = ""
 for i in range (4):
  a=random.randint(1,6)
