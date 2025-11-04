@@ -1,8 +1,8 @@
 
 #Luodaan funktio, joka heittää noppaa annettuu silmälukuun
-def muunnos(i):
-    litrat = i * 3.785
-    return litrat
+def muunnos(funktionapumuuttuja):
+    valivarasto = funktionapumuuttuja * 3.785
+    return valivarasto
 
 #Pääohjelma
 #Kysytään litramäärä
